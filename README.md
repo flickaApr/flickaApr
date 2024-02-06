@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flickaApr
 - 👀 I’m interested in distributed system,
-- 🌱 and I’m currently learning JavaScript.
+- 🌱 and I’m currently learning Java.
 
 <!---
 flickaApr/flickaApr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
